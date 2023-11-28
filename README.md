@@ -3,6 +3,8 @@
 Welcome to my personal github portfolio page!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn profile](https://www.linkedin.com/annika.vauth)
+ 
+
 
 ## Projects
 
@@ -15,7 +17,11 @@ Most of my work-related code is on
 
 > “Laugh hard. Run fast. Be kind.” - Doctor Who
 
-[![xkcd emacs comic([http://www.google.com.au/images/nav_logo7.png](https://imgs.xkcd.com/comics/real_programmers.png))]([http://google.com.au/](https://xkcd.com/378))
+
+
+[<img src="https://imgs.xkcd.com/comics/real_programmers.png">](https://xkcd.com/378)
+
+
 
 ## Dashboards
 
