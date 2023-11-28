@@ -25,10 +25,10 @@ Most of my work-related code is on
 
 ## Dashboards
 
-This is a basic streamlit dashboard displaying a function:
+This is a streamlit dashboard visualizing information about trees in Hamburg:
 
 <iframe
-  src="https://functionsandbox.streamlit.app/?embed=true"
+  src="https://treedashboardhh.streamlit.app/?embed=true"
   height="250"
   style="width:100%;border:none;"
 ></iframe>
