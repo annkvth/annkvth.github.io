@@ -14,3 +14,12 @@ Most of my work-related code is on
 > “Open your eyes and then open your eyes again.” - Terry Pratchett
 
 [https://xkcd.com/378](https://imgs.xkcd.com/comics/real_programmers.png)
+
+
+## Dashboards
+
+<iframe
+  src="https://30days.streamlit.app/?embed=true"
+  height="450"
+  style="width:100%;border:none;"
+></iframe>
