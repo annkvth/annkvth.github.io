@@ -2,6 +2,8 @@
 
 Welcome to my personal github portfolio page!
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn profile](https://www.linkedin.com/annika.vauth)
+
 ## Projects
 
 Most of my work-related code is on
