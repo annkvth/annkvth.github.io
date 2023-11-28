@@ -18,8 +18,10 @@ Most of my work-related code is on
 
 ## Dashboards
 
+This is a basic streamlit dashboard displaying a function:
+
 <iframe
-  src="https://30days.streamlit.app/?embed=true"
+  src="https://functionsandbox.streamlit.app/?embed=true"
   height="450"
   style="width:100%;border:none;"
 ></iframe>
