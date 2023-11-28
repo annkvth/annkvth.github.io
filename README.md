@@ -3,7 +3,10 @@ github portfolio page
 
 ## A second-level heading
 
-> there could be a quote here.
+> “Open your eyes and then open your eyes again.” - Terry Pratchett
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+Most of my work-related code is on
+ - [my DESY gitlab](https://gitlab.desy.de/annika.vauth)
+ - [my CERN gitlab](https://gitlab.cern.ch/avauth)
+   
 
