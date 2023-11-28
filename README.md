@@ -2,7 +2,7 @@
 
 Welcome to my personal github portfolio page!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn profile](https://www.linkedin.com/annika.vauth)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn profile](https://www.linkedin.com/in/annika-vauth/)
  
 
 
@@ -12,14 +12,6 @@ Most of my work-related code is on
  - [my DESY gitlab](https://gitlab.desy.de/annika.vauth)
  - [my CERN gitlab](https://gitlab.cern.ch/avauth)
    
-
-## Random snippets
-
-> “Laugh hard. Run fast. Be kind.” - Doctor Who
-
-
-
-[<img src="https://imgs.xkcd.com/comics/real_programmers.png">](https://xkcd.com/378)
 
 
 
@@ -32,3 +24,15 @@ This is a streamlit dashboard visualizing information about trees in Hamburg:
   height="250"
   style="width:100%;border:none;"
 ></iframe>
+
+
+
+## Random snippets
+
+> “Laugh hard. Run fast. Be kind.” - Doctor Who
+>
+
+🦋 🦋 🦋 
+
+[<img src="https://imgs.xkcd.com/comics/real_programmers.png">](https://xkcd.com/378)
+
