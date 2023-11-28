@@ -25,6 +25,7 @@ This is a streamlit dashboard visualizing information about trees in Hamburg:
   style="width:100%;border:none;"
 ></iframe>
 
+&nbsp;  
 
 
 ## Random snippets
