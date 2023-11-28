@@ -24,6 +24,6 @@ This is a basic streamlit dashboard displaying a function:
 
 <iframe
   src="https://functionsandbox.streamlit.app/?embed=true"
-  height="450"
+  height="250"
   style="width:100%;border:none;"
 ></iframe>
