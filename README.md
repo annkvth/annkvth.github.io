@@ -13,10 +13,9 @@ Most of my work-related code is on
 
 ## Random snippets
 
-> “Open your eyes and then open your eyes again.” - Terry Pratchett
+> “Laugh hard. Run fast. Be kind.” - Doctor Who
 
-[https://xkcd.com/378](https://imgs.xkcd.com/comics/real_programmers.png)
-
+[![xkcd emacs comic([http://www.google.com.au/images/nav_logo7.png](https://imgs.xkcd.com/comics/real_programmers.png))]([http://google.com.au/](https://xkcd.com/378))
 
 ## Dashboards
 
