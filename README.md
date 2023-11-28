@@ -1,5 +1,6 @@
 # annkvth.github.io
-github portfolio page
+
+Welcome to my personal github portfolio page!
 
 ## Projects
 
@@ -11,4 +12,4 @@ Most of my work-related code is on
 ## Snippets
 
 > “Open your eyes and then open your eyes again.” - Terry Pratchett
-> 
+
