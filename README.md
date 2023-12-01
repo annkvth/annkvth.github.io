@@ -17,7 +17,7 @@ Most of my work-related code is on
 
 ## Dashboards
 
-This is a streamlit dashboard I'm working on to visualize information about trees in Hamburg:
+My first streamlit dashboard: built to visualize information about trees in Hamburg:
 
 <iframe
   src="https://treedashboardhh.streamlit.app/?embed=true"
