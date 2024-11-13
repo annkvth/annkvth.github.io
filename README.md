@@ -15,6 +15,20 @@ Most of my work-related code is on
 
 
 
+
+
+## Random snippets
+
+> “Laugh hard. Run fast. Be kind.” - Doctor Who
+>
+
+🦋 🦋 🦋 
+
+[<img src="https://imgs.xkcd.com/comics/real_programmers.png">](https://xkcd.com/378)
+
+
+
+
 ## Dashboards
 
 CSV streamlit dashboard - quick plotting of csv files using plotly
@@ -36,16 +50,4 @@ My first streamlit dashboard ever: built to visualize information about trees in
 ></iframe>
 
 &nbsp;  
-
-
-
-
-## Random snippets
-
-> “Laugh hard. Run fast. Be kind.” - Doctor Who
->
-
-🦋 🦋 🦋 
-
-[<img src="https://imgs.xkcd.com/comics/real_programmers.png">](https://xkcd.com/378)
 
