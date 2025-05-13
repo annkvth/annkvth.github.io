@@ -9,8 +9,9 @@ Welcome to my personal github portfolio page!
 ## Projects
 
 Most of my work-related code is on
- - [my DESY gitlab](https://gitlab.desy.de/annika.vauth)
- - [my CERN gitlab](https://gitlab.cern.ch/avauth)
+
+ - [my CERN gitlab](https://gitlab.cern.ch/avauth) - e.g. contributions to corryvreckan and allpix2
+ - [my DESY gitlab](https://gitlab.desy.de/annika.vauth) - mostly private DAQ and analysis code
    
 
 
